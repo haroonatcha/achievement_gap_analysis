@@ -2,3 +2,4 @@ palette
 #81515a
 #5f5a80
 #126a62
+grey60
