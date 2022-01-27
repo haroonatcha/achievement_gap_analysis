@@ -40,9 +40,6 @@ ribbon <- gap[gap$institution == 'College of DuPage',
                 'white')]
 
 #source text
-source <- 'Source: IPEDS Trends for the overall completion rates for
-full-time first-year degree/certificate-seeking undergraduate students 
-(2-year institutions)'
 
 
 ggplot(data = ribbon,
@@ -74,7 +71,7 @@ ggplot(data = ribbon,
   labs(x = '\nYear',
        y = '3-Year Completion Rate\n',
        title = '3-Year Achievement by Ethnicity, College of DuPage',
-       caption = str_wrap(source, 80)) +
+       caption = source) +
   my_theme
 
 

@@ -24,7 +24,8 @@ ggplot(data = viz,
                                   by = 2)) +
   labs(x = '\nYear',
        y = 'White Completion % - Black Completion %\n',
-       title = 'Black/White Achievement Gap at Peer Institutions') +
+       title = 'Black/White Achievement Gap at Peer Institutions',
+       caption = source) +
   my_theme
 
 ggsave(file.path('graphs', 'plot2.png'))

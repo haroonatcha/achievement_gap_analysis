@@ -4,11 +4,6 @@ library('prismatic')
 
 viz <- gap[gap$institution == 'College of DuPage',]
 
-#source
-source <- 'Source: IPEDS Trends for the overall completion rates for
-full-time first-year degree/certificate-seeking undergraduate students 
-(2-year institutions)'
-
 ggplot(data = viz,
        aes(x = year,
            y = black_white_gap,
@@ -25,7 +20,7 @@ ggplot(data = viz,
   labs(x = '\nYear',
        y = 'White Completion % - Black Completion %\n',
        title = 'Black/White Achievement Gap, College of DuPage',
-       caption = str_wrap(source, 80)) +
+       caption = source) +
   guides(fill = 'none') +
   my_theme
 
