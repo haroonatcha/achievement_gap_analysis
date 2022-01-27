@@ -42,13 +42,9 @@ ribbon$gap <- ribbon$white - ribbon$black_aa
 ribbon$alpha <- ifelse(ribbon$year == 2011, 0, 1)
 
 #source text
-
-
 source <- 'Source: IPEDS Trends for the overall completion rates for
 full-time first-year degree/certificate-seeking undergraduate students 
 (2-year institutions)'
-
-str_wrap(source, width = 80)
 
 ggplot(data = line) +
   geom_ribbon_pattern(data = ribbon,
