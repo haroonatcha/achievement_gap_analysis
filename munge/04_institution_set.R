@@ -2,8 +2,7 @@
 
 #This first group is just geographically nearby
 institutions <- c('College of DuPage', 'Waubonsee Community College',
-                  'College of Lake County', 'Elgin Community College',
-                  'William Rainey Harper College', 'Oakton Community College')
+                  'Elgin Community College', 'William Rainey Harper College')
 
 
 #this second group is colleges with more than 1k
