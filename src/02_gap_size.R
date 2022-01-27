@@ -11,7 +11,7 @@ ggplot(data = viz,
                            accuracy = 1))) +
   geom_col(fill = '#81515a',
            color = clr_darken('#81515a', 0.5)) +
-  geom_text(vjust = -1,
+  geom_text(vjust = -0.5,
             size = 3) +
   facet_wrap(facets = 'institution') +
   scale_y_continuous(expand = expansion(mult = c(0, 0.1)),
