@@ -74,7 +74,8 @@ ggplot(data = line) +
             size = 3.5,
             show.legend = FALSE) +
   scale_x_continuous(breaks = min(line$year):max(line$year),
-                     expand = expansion(add = c(0, 0.2))) +
+                     expand = expansion(add = c(0.1, 0.14)),
+                     limits = c(min(line$year), max(line$year))) +
   scale_y_continuous(labels = label_percent(accuracy = 1L),
                      expand = expansion(mult = c(0, 0.1)),
                      limits = c(0, max(line$completion*1.1)),
