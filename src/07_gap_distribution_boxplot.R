@@ -40,4 +40,59 @@ ggplot(data = viz,
        caption = str_wrap(source, 80)) +
   my_theme
 
+
 ggsave(file.path('graphs', 'plot7.png'))
+
+#taking out kennedy king for crazy high outlying values
+viz <- viz[-which(viz$institution == 'City Colleges of Chicago-Kennedy-King College'),
+           c('institution', 'year', 'black_white_gap')]
+
+#get yearly mean for comparison
+yearly_mean <- aggregate(viz$black_white_gap,
+                         by = list(viz$year),
+                         FUN = mean,
+                         na.rm = TRUE)
+
+#rename aggregate colums
+colnames(yearly_mean) <- c('year', 'black_white_gap')
+yearly_mean$institution <- 'Peer Institution Average'
+
+viz <- rbind(viz, yearly_mean)
+
+#split up so that cod and avg can be charted on top of peer institutions
+cod <- viz[viz$institution == 'College of DuPage',]
+avg <- viz[viz$institution == 'Peer Institution Average',]
+oth <- viz[viz$institution != 'College of DuPage' |
+             viz$institution != 'Peer Institution Average',]
+
+
+ggplot() +
+  geom_line(data = oth,
+            aes(x = year,
+                y = black_white_gap,
+                group = institution),
+            alpha = 0.25,
+            color = 'grey50') +
+  geom_line(data = avg,
+            aes(x = year,
+                y = black_white_gap,
+                group = institution),
+            linetype = 'dashed',
+            size = 1.25) +
+  geom_line(data = cod,
+            aes(x = year,
+                y = black_white_gap,
+                group = institution),
+            color = '#126a62',
+            size = 1.25) +
+  scale_x_continuous(breaks = min(viz$year):max(viz$year)) +
+  scale_y_continuous(labels = label_percent(accuracy = 1L),
+                     limits = c(-0.05, 0.45)) +
+  labs(x = '\nYear',
+       y = 'Black-White Achievement Gap\n',
+       title = 'College of DuPage Achievement Gap vs Peer Institutions',
+       caption = str_wrap(source, 80)) +
+  my_theme
+
+ggsave(file.path('graphs', 'plot7a.png'))
+
