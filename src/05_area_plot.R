@@ -63,6 +63,6 @@ ggplot(data = viz,
        caption = source) +
   my_theme
 
-ggsave(file.path('graphs', 'plot8.png'))
+ggsave(file.path('graphs', 'plot5.png'))
 
 

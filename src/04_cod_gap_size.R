@@ -24,4 +24,4 @@ ggplot(data = viz,
   guides(fill = 'none') +
   my_theme
 
-ggsave(file.path('graphs', 'plot6.png'))
+ggsave(file.path('graphs', 'plot4.png'))

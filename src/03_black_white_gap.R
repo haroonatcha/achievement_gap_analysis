@@ -62,6 +62,10 @@ ggplot(data = line) +
                 y = completion,
                 color = ethnicity),
             size = 1.5) +
+  geom_point(aes(x = year,
+                 y = completion,
+                 color = ethnicity),
+             size = 3.5) +
   geom_text(aes(x = ifelse(year == 2017 &
                              ethnicity == 'Black/African American',
                            year + 0.12,
@@ -90,6 +94,6 @@ ggplot(data = line) +
        caption = str_wrap(source, 80)) +
   my_theme
 
-ggsave(file.path('graphs', 'plot5.png'))
+ggsave(file.path('graphs', 'plot3.png'))
 
 

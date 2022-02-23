@@ -1,0 +1,201 @@
+ethnicity,cohort_size,completers,transfers,exclusions,enrolled,not_enrolled,gender,year,institution
+Nonresident alien,20,9,4,,,7,men,2020,college of dupage
+Hispanic/Latino,269,40,53,,56,120,men,2020,college of dupage
+American Indian or Alaska Native,2,0,,,,2,men,2020,college of dupage
+Asian,103,10,44,,23,26,men,2020,college of dupage
+Black or African American,92,7,27,,8,50,men,2020,college of dupage
+Native Hawaiian or Other Pacific Islander,,0,,,,0,men,2020,college of dupage
+White,608,134,169,,107,198,men,2020,college of dupage
+Two or more races,37,9,6,,4,18,men,2020,college of dupage
+Race and ethnicity unknown,6,1,3,,,2,men,2020,college of dupage
+Total men,1137,210,306,0,198,423,men,2020,college of dupage
+Nonresident alien,8,3,,,1,4,women,2020,college of dupage
+Hispanic/Latino,263,57,64,,59,83,women,2020,college of dupage
+American Indian or Alaska Native,,0,,,,0,women,2020,college of dupage
+Asian,100,32,37,,16,15,women,2020,college of dupage
+Black or African American,69,9,21,,10,29,women,2020,college of dupage
+Native Hawaiian or Other Pacific Islander,1,0,,,1,0,women,2020,college of dupage
+White,437,126,143,,72,96,women,2020,college of dupage
+Two or more races,34,7,7,,6,14,women,2020,college of dupage
+Race and ethnicity unknown,6,2,4,,,0,women,2020,college of dupage
+Total women,918,236,276,0,165,241,women,2020,college of dupage
+Nonresident alien,14,4,1,ÿÿ,4,5,men,2019,college of dupage
+Hispanic/Latino,211,39,41,ÿÿ,46,85,men,2019,college of dupage
+American Indian or Alaska Native,ÿÿ,0,ÿÿ,ÿÿ,ÿÿ,0,men,2019,college of dupage
+Asian,108,17,53,ÿÿ,18,20,men,2019,college of dupage
+Black or African American,65,6,19,ÿÿ,13,27,men,2019,college of dupage
+Native Hawaiian or Other Pacific Islander,ÿÿ,0,ÿÿ,ÿÿ,ÿÿ,0,men,2019,college of dupage
+White,543,137,146,ÿÿ,87,173,men,2019,college of dupage
+Two or more races,44,9,14,ÿÿ,7,14,men,2019,college of dupage
+Race and ethnicity unknown,5,3,ÿÿ,ÿÿ,1,1,men,2019,college of dupage
+Total men,990,215,274,0,176,325,men,2019,college of dupage
+Nonresident alien,9,3,1,ÿÿ,2,3,women,2019,college of dupage
+Hispanic/Latino,226,56,49,ÿÿ,51,70,women,2019,college of dupage
+American Indian or Alaska Native,3,1,ÿÿ,ÿÿ,ÿÿ,2,women,2019,college of dupage
+Asian,98,36,34,ÿÿ,12,16,women,2019,college of dupage
+Black or African American,83,9,19,ÿÿ,12,43,women,2019,college of dupage
+Native Hawaiian or Other Pacific Islander,2,1,ÿÿ,ÿÿ,1,0,women,2019,college of dupage
+White,406,135,117,ÿÿ,63,91,women,2019,college of dupage
+Two or more races,38,14,9,ÿÿ,4,11,women,2019,college of dupage
+Race and ethnicity unknown,4,2,2,ÿÿ,ÿÿ,0,women,2019,college of dupage
+Total women,869,257,231,0,145,236,women,2019,college of dupage
+Nonresident alien,9,0,1,ÿÿ,1,7,men,2018,college of dupage
+Hispanic/Latino,211,31,46,ÿÿ,42,92,men,2018,college of dupage
+American Indian or Alaska Native,3,0,1,ÿÿ,ÿÿ,2,men,2018,college of dupage
+Asian,133,26,53,ÿÿ,26,28,men,2018,college of dupage
+Black or African American,83,8,24,ÿÿ,7,44,men,2018,college of dupage
+Native Hawaiian or Other Pacific Islander,3,0,2,ÿÿ,1,0,men,2018,college of dupage
+White,623,129,189,ÿÿ,109,196,men,2018,college of dupage
+Two or more races,37,7,13,ÿÿ,4,13,men,2018,college of dupage
+Race and ethnicity unknown,18,2,4,ÿÿ,5,7,men,2018,college of dupage
+Total men,1120,203,333,0,195,389,men,2018,college of dupage
+Nonresident alien,15,3,2,ÿÿ,3,7,women,2018,college of dupage
+Hispanic/Latino,289,68,69,ÿÿ,51,101,women,2018,college of dupage
+American Indian or Alaska Native,2,0,ÿÿ,ÿÿ,ÿÿ,2,women,2018,college of dupage
+Asian,90,23,40,ÿÿ,14,13,women,2018,college of dupage
+Black or African American,72,8,26,ÿÿ,10,28,women,2018,college of dupage
+Native Hawaiian or Other Pacific Islander,1,0,ÿÿ,ÿÿ,ÿÿ,1,women,2018,college of dupage
+White,522,153,167,ÿÿ,80,122,women,2018,college of dupage
+Two or more races,32,3,10,ÿÿ,6,13,women,2018,college of dupage
+Race and ethnicity unknown,20,8,5,ÿÿ,2,5,women,2018,college of dupage
+Total women,1043,266,319,0,166,292,women,2018,college of dupage
+Nonresident alien,9,3,ÿÿ,ÿÿ,1,5,men,2017,college of dupage
+Hispanic/Latino,259,34,56,ÿÿ,51,118,men,2017,college of dupage
+American Indian or Alaska Native,ÿÿ,0,ÿÿ,ÿÿ,ÿÿ,0,men,2017,college of dupage
+Asian,137,30,63,ÿÿ,23,21,men,2017,college of dupage
+Black or African American,141,13,47,ÿÿ,8,73,men,2017,college of dupage
+Native Hawaiian or Other Pacific Islander,2,0,ÿÿ,ÿÿ,1,1,men,2017,college of dupage
+White,772,177,247,ÿÿ,118,230,men,2017,college of dupage
+Two or more races,37,6,11,ÿÿ,4,16,men,2017,college of dupage
+Race and ethnicity unknown,28,3,8,ÿÿ,5,12,men,2017,college of dupage
+Total men,1385,266,432,0,211,476,men,2017,college of dupage
+Nonresident alien,4,1,ÿÿ,ÿÿ,1,2,women,2017,college of dupage
+Hispanic/Latino,272,62,62,ÿÿ,58,90,women,2017,college of dupage
+American Indian or Alaska Native,ÿÿ,0,ÿÿ,ÿÿ,ÿÿ,0,women,2017,college of dupage
+Asian,130,39,52,ÿÿ,19,20,women,2017,college of dupage
+Black or African American,96,14,23,ÿÿ,7,52,women,2017,college of dupage
+Native Hawaiian or Other Pacific Islander,3,1,1,ÿÿ,ÿÿ,1,women,2017,college of dupage
+White,596,173,181,ÿÿ,88,154,women,2017,college of dupage
+Two or more races,39,14,11,ÿÿ,4,10,women,2017,college of dupage
+Race and ethnicity unknown,23,6,8,ÿÿ,5,4,women,2017,college of dupage
+Total women,1163,310,338,0,182,333,women,2017,college of dupage
+Nonresident alien,9,1,0,ÿÿ,0,8,men,2016,college of dupage
+Hispanic/Latino,251,41,56,ÿÿ,51,103,men,2016,college of dupage
+American Indian or Alaska Native,4,0,1,ÿÿ,1,2,men,2016,college of dupage
+Asian,111,18,46,ÿÿ,23,24,men,2016,college of dupage
+Black or African American,134,4,62,ÿÿ,10,58,men,2016,college of dupage
+Native Hawaiian or Other Pacific Islander,6,1,2,ÿÿ,2,1,men,2016,college of dupage
+White,787,196,217,ÿÿ,129,245,men,2016,college of dupage
+Two or more races,48,8,15,ÿÿ,8,17,men,2016,college of dupage
+Race and ethnicity unknown,24,5,9,ÿÿ,1,9,men,2016,college of dupage
+Total men,1374,274,408,ÿÿ,225,467,men,2016,college of dupage
+Nonresident alien,5,1,0,ÿÿ,0,4,women,2016,college of dupage
+Hispanic/Latino,228,47,57,ÿÿ,58,66,women,2016,college of dupage
+American Indian or Alaska Native,3,3,0,ÿÿ,0,0,women,2016,college of dupage
+Asian,92,21,46,ÿÿ,12,13,women,2016,college of dupage
+Black or African American,97,9,30,ÿÿ,16,42,women,2016,college of dupage
+Native Hawaiian or Other Pacific Islander,3,0,1,ÿÿ,2,0,women,2016,college of dupage
+White,646,196,186,ÿÿ,97,167,women,2016,college of dupage
+Two or more races,36,7,13,ÿÿ,6,10,women,2016,college of dupage
+Race and ethnicity unknown,16,7,3,ÿÿ,3,3,women,2016,college of dupage
+Total women,1126,291,336,ÿÿ,194,305,women,2016,college of dupage
+Nonresident alien,2,0,0,ÿÿ,0,2,men,2015,college of dupage
+Hispanic/Latino,263,20,69,ÿÿ,69,105,men,2015,college of dupage
+American Indian or Alaska Native,3,0,1,ÿÿ,0,2,men,2015,college of dupage
+Asian,125,19,49,ÿÿ,29,28,men,2015,college of dupage
+Black or African American,208,7,89,ÿÿ,15,97,men,2015,college of dupage
+Native Hawaiian or Other Pacific Islander,5,0,3,ÿÿ,1,1,men,2015,college of dupage
+White,808,179,209,ÿÿ,147,273,men,2015,college of dupage
+Two or more races,47,7,18,ÿÿ,9,13,men,2015,college of dupage
+Race and ethnicity unknown,42,7,6,ÿÿ,9,20,men,2015,college of dupage
+Total men,1503,239,444,ÿÿ,279,541,men,2015,college of dupage
+Nonresident alien,0,0,0,ÿÿ,0,0,women,2015,college of dupage
+Hispanic/Latino,259,44,69,ÿÿ,57,89,women,2015,college of dupage
+American Indian or Alaska Native,0,0,0,ÿÿ,0,0,women,2015,college of dupage
+Asian,106,32,36,ÿÿ,18,20,women,2015,college of dupage
+Black or African American,111,13,40,ÿÿ,12,46,women,2015,college of dupage
+Native Hawaiian or Other Pacific Islander,3,2,1,ÿÿ,0,0,women,2015,college of dupage
+White,687,162,223,ÿÿ,113,189,women,2015,college of dupage
+Two or more races,51,13,13,ÿÿ,8,17,women,2015,college of dupage
+Race and ethnicity unknown,24,4,6,ÿÿ,4,10,women,2015,college of dupage
+Total women,1241,270,388,ÿÿ,212,371,women,2015,college of dupage
+Nonresident alien,3,0,1,ÿÿ,1,1,men,2014,college of dupage
+Hispanic/Latino,285,29,73,ÿÿ,46,137,men,2014,college of dupage
+American Indian or Alaska Native,0,0,0,ÿÿ,0,0,men,2014,college of dupage
+Asian,95,11,41,ÿÿ,21,22,men,2014,college of dupage
+Black or African American,130,2,54,ÿÿ,12,62,men,2014,college of dupage
+Native Hawaiian or Other Pacific Islander,3,1,2,ÿÿ,0,0,men,2014,college of dupage
+White,912,162,254,ÿÿ,163,333,men,2014,college of dupage
+Two or more races,52,4,20,ÿÿ,6,22,men,2014,college of dupage
+Race and ethnicity unknown,31,6,9,ÿÿ,5,11,men,2014,college of dupage
+Total men,1511,215,454,ÿÿ,254,588,men,2014,college of dupage
+Nonresident alien,5,1,1,ÿÿ,0,3,women,2014,college of dupage
+Hispanic/Latino,239,32,59,ÿÿ,56,92,women,2014,college of dupage
+American Indian or Alaska Native,2,0,0,ÿÿ,0,2,women,2014,college of dupage
+Asian,68,13,25,ÿÿ,16,14,women,2014,college of dupage
+Black or African American,82,6,33,ÿÿ,5,38,women,2014,college of dupage
+Native Hawaiian or Other Pacific Islander,2,1,0,ÿÿ,1,0,women,2014,college of dupage
+White,680,167,201,ÿÿ,116,196,women,2014,college of dupage
+Two or more races,59,10,18,ÿÿ,11,20,women,2014,college of dupage
+Race and ethnicity unknown,23,4,11,ÿÿ,3,5,women,2014,college of dupage
+Total women,1160,234,348,ÿÿ,208,370,women,2014,college of dupage
+Nonresident alien,3,0,1,ÿ,0,2,men,2013,college of dupage
+Hispanic/Latino,137,22,36,ÿ,19,60,men,2013,college of dupage
+American Indian or Alaska Native,2,0,0,ÿ,1,1,men,2013,college of dupage
+Asian,122,13,57,ÿ,32,20,men,2013,college of dupage
+Black or African American,156,8,73,ÿ,10,65,men,2013,college of dupage
+Native Hawaiian or Other Pacific Islander,4,0,0,ÿ,1,3,men,2013,college of dupage
+White,854,133,201,ÿ,162,358,men,2013,college of dupage
+Two or more races,0,0,0,ÿ,0,0,men,2013,college of dupage
+Race and ethnicity unknown,45,16,10,ÿ,5,14,men,2013,college of dupage
+Total men,1323,192,378,ÿÿ,230,523,men,2013,college of dupage
+Nonresident alien,6,2,1,ÿ,0,3,women,2013,college of dupage
+Hispanic/Latino,140,13,37,ÿ,28,62,women,2013,college of dupage
+American Indian or Alaska Native,4,0,1,ÿ,2,1,women,2013,college of dupage
+Asian,77,16,35,ÿ,13,13,women,2013,college of dupage
+Black or African American,100,3,41,ÿ,16,40,women,2013,college of dupage
+Native Hawaiian or Other Pacific Islander,6,0,0,ÿ,5,1,women,2013,college of dupage
+White,671,142,218,ÿ,111,200,women,2013,college of dupage
+Two or more races,0,0,0,ÿ,0,0,women,2013,college of dupage
+Race and ethnicity unknown,32,6,14,ÿ,4,8,women,2013,college of dupage
+Total women,1036,182,347,ÿÿ,179,328,women,2013,college of dupage
+Nonresident alien,4,0,2,ÿ,0,2,men,2012,college of dupage
+Hispanic/Latino,94,13,29,ÿ,12,40,men,2012,college of dupage
+American Indian or Alaska Native,4,0,0,ÿ,0,4,men,2012,college of dupage
+Asian,68,7,29,ÿ,11,21,men,2012,college of dupage
+Black or African American,137,6,65,ÿ,8,58,men,2012,college of dupage
+Native Hawaiian or Other Pacific Islander,0,0,0,ÿ,0,0,men,2012,college of dupage
+White,581,77,193,ÿ,83,228,men,2012,college of dupage
+Two or more races,5,0,2,ÿ,0,3,men,2012,college of dupage
+Race and ethnicity unknown,240,23,81,ÿ,41,95,men,2012,college of dupage
+Total men,1133,126,401,ÿÿ,155,451,men,2012,college of dupage
+Nonresident alien,1,0,0,ÿ,0,1,women,2012,college of dupage
+Hispanic/Latino,82,11,23,ÿ,17,31,women,2012,college of dupage
+American Indian or Alaska Native,5,0,3,ÿ,0,2,women,2012,college of dupage
+Asian,72,13,33,ÿ,7,19,women,2012,college of dupage
+Black or African American,78,4,32,ÿ,9,33,women,2012,college of dupage
+Native Hawaiian or Other Pacific Islander,0,0,0,ÿ,0,0,women,2012,college of dupage
+White,445,76,170,ÿ,66,133,women,2012,college of dupage
+Two or more races,3,0,1,ÿ,0,2,women,2012,college of dupage
+Race and ethnicity unknown,200,42,55,ÿ,32,71,women,2012,college of dupage
+Total women,886,146,317,ÿÿ,131,292,women,2012,college of dupage
+Nonresident alien,0,0,0,ÿ,0,0,men,2011,college of dupage
+Hispanic/Latino,143,11,42,ÿ,34,56,men,2011,college of dupage
+American Indian or Alaska Native,5,0,2,ÿ,1,2,men,2011,college of dupage
+Asian,110,10,48,ÿ,23,29,men,2011,college of dupage
+Black or African American,143,9,70,ÿ,6,58,men,2011,college of dupage
+Native Hawaiian or Other Pacific Islander,0,0,0,ÿ,0,0,men,2011,college of dupage
+White,811,83,258,ÿ,138,332,men,2011,college of dupage
+Two or more races,0,0,0,ÿ,0,0,men,2011,college of dupage
+Race and ethnicity unknown,9,0,4,ÿ,0,5,men,2011,college of dupage
+Total men,1221,113,424,ÿ,202,482,men,2011,college of dupage
+Nonresident alien,0,0,0,ÿ,0,0,women,2011,college of dupage
+Hispanic/Latino,128,6,43,ÿ,32,47,women,2011,college of dupage
+American Indian or Alaska Native,3,0,1,ÿ,1,1,women,2011,college of dupage
+Asian,77,13,36,ÿ,12,16,women,2011,college of dupage
+Black or African American,72,5,43,ÿ,4,20,women,2011,college of dupage
+Native Hawaiian or Other Pacific Islander,0,0,0,ÿ,0,0,women,2011,college of dupage
+White,613,99,191,ÿ,105,218,women,2011,college of dupage
+Two or more races,0,0,0,ÿ,0,0,women,2011,college of dupage
+Race and ethnicity unknown,4,0,2,ÿ,0,2,women,2011,college of dupage
+Total women,897,123,316,ÿ,154,304,women,2011,college of dupage
